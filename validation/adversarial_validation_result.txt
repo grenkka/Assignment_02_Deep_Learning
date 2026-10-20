@@ -1,0 +1,3 @@
+Model: efficientnet_b0 (pretrained ImageNet)
+Adversarial Validation ROC-AUC: 0.5009
+Conclusion: ROC-AUC = 0.5009 (~0.50). Train and Test sets have virtually IDENTICAL distributions! Local CV will strongly correlate with Public LB.
