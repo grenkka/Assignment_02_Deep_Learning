@@ -1,0 +1,27 @@
+# Competition Data (images and raw csv files)
+data/
+data/*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Checkpoints & logs
+lightning_logs/
+wandb/
+*.ckpt
+*.pt
+*.pth
