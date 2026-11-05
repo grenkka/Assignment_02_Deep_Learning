@@ -25,4 +25,5 @@ wandb/
 *.ckpt
 *.pt
 *.pth
+cheat_sheet_defense.md
 
