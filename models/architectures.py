@@ -89,3 +89,4 @@ if __name__ == '__main__':
     print("ResNet50WithSE output shape:", out.shape)
     assert out.shape == (2, 5), "Output shape mismatch!"
     print("Architecture verified successfully.")
+
